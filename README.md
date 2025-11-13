@@ -65,18 +65,19 @@ This project played a big role in strengthening my understanding of React workfl
 Clone the project:
 ```
 git clone https://github.com/your-username/weather-app.git
-
+```
 
 Enter the directory:
 ```
 cd weather-app
-
+```
 
 Install dependencies:
 ```
 npm install
-
+```
 
 Start dev server:
 ```
 npm run dev
+```
