@@ -81,3 +81,5 @@ Start dev server:
 ```
 npm run dev
 ```
+
+Don't forget to use your weather api key in weatherApi.js file
