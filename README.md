@@ -7,10 +7,10 @@ It helped me deepen my understanding of core React concepts while building somet
 
 ## 🚀 Features
 
-🔍 Search weather by city name
-🕒 Display accurate local date & time using timezone offsets
-🌡️ Real-time temperature, humidity, visibility & wind data
-⚛️ Built with React functional components + hooks
+- 🔍 Search weather by city name
+- 🕒 Display accurate local date & time using timezone offsets
+- 🌡️ Real-time temperature, humidity, visibility & wind data
+- ⚛️ Built with React functional components + hooks
 
 ---
 
